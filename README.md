@@ -89,7 +89,7 @@ What is the average amount spent per order?
 
 Calculated the average value of each invoice to understand customer spending behavior.
 
-<img src="Images/02_Average_Order_Value.png">
+<img src="Images/2_Average_order_value.png.png">
 
 ---
 
