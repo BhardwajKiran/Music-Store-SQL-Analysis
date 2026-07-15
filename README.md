@@ -103,7 +103,7 @@ How many customers does the music store have?
 
 Determined the size of the customer base.
 
-<img src="Images/03_Total_Customers.png">
+<img src="Images/3_Total_number_of-orders.png">
 
 ---
 
@@ -117,7 +117,7 @@ Which customers contribute the highest revenue?
 
 Identified the highest-value customers for potential loyalty programs.
 
-<img src="Images/04_Top_Customers.png">
+<img src="Images/4_top_10_cust_by_revenue.png">
 
 ---
 
@@ -131,7 +131,7 @@ Which countries generate the highest revenue?
 
 Compared total sales across countries to identify top-performing markets.
 
-<img src="Images/05_Revenue_By_Country.png">
+<img src="Images/5_Top_countries_by_revenue.png">
 
 ---
 
@@ -145,7 +145,7 @@ Which countries have the highest number of customers?
 
 Analyzed customer distribution across different countries.
 
-<img src="Images/06_Customers_By_Country.png">
+<img src="Images/6_customers_by_country.png">
 
 ---
 
@@ -159,7 +159,7 @@ Which artists generate the highest revenue?
 
 Identified artists contributing the most revenue to the business.
 
-<img src="Images/07_Best_Selling_Artists.png">
+<img src="Images/7_best_selling_aerist.png">
 
 ---
 
@@ -173,7 +173,7 @@ Which genres are purchased the most?
 
 Determined customer music preferences by analyzing genre popularity.
 
-<img src="Images/08_Popular_Genres.png">
+<img src="Images/8_most_purchased_Genre.png">
 
 ---
 
@@ -187,7 +187,7 @@ Which tracks are purchased most frequently?
 
 Identified the best-performing songs in terms of sales volume.
 
-<img src="Images/09_Top_Selling_Tracks.png">
+<img src="Images/9_top_selling_tracks.png">
 
 ---
 
@@ -195,13 +195,13 @@ Identified the best-performing songs in terms of sales volume.
 
 ### Business Question
 
-How has revenue changed over time?
+How has revenue changed over Months?
 
 ### Finding
 
 Analyzed monthly sales trends to identify growth patterns and seasonality.
 
-<img src="Images/10_Monthly_Revenue.png">
+<img src="Images/10_revenue_by_month.png">
 
 ---
 
@@ -215,7 +215,7 @@ Which employee generated the highest revenue?
 
 Compared employee performance based on sales generated from their assigned customers.
 
-<img src="Images/11_Employee_Performance.png">
+<img src="Images/11_top_employee_by_sales.png">
 
 ---
 
@@ -258,40 +258,8 @@ Compared employee performance based on sales generated from their assigned custo
 
 ---
 
-# 📁 Project Structure
 
-```
-Chinook-Music-Store-SQL-Analysis
-│
-├── Dataset
-│   └── Chinook_MySql.sql
-│
-├── SQL Queries
-│   ├── 01_Total_Revenue.sql
-│   ├── 02_Average_Order_Value.sql
-│   ├── ...
-│
-├── Images
-│   ├── banner.png
-│   ├── ER_Diagram.png
-│   ├── 01_Total_Revenue.png
-│   ├── ...
-│
-└── README.md
-```
 
----
-
-# 🚀 Future Enhancements
-
-- Solve 30+ business problems
-- Add Common Table Expressions (CTEs)
-- Use Window Functions
-- Create Views and Stored Procedures
-- Build an interactive Power BI dashboard
-- Develop an executive KPI dashboard
-
----
 
 # 👨‍💻 About Me
 
